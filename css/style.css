@@ -343,7 +343,7 @@ body {
    @media (max-width: 1300px){
     .text_small {
     font-size: 11px;
-376    line-height: 158.48%;
+    line-height: 158.48%;
     margin-top: 20px;
     margin-left: 32px;
     text-align: center;
@@ -355,7 +355,7 @@ body {
     margin-top: 9px;
     height: 42px;
 }
-@media (max-width: 376px){
+@media (max-width: 1300px){
     .inside {
         margin-left: 0;
      }
