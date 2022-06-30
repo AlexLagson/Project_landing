@@ -128,7 +128,6 @@ body {
     background: rgba(0, 0, 0, 0.7);
 }
 .img1_container {
-    
     position: absolute;
     z-index: 1;
     width: 676.11px;
@@ -140,6 +139,11 @@ body {
         width: 340px;
         left: 18px;
         top: 85px;
+    }
+}
+@media (min-width: 2500px){
+    .img1_container {
+        left: 684px;
     }
 }
 .title {
